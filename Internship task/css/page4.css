@@ -1,0 +1,85 @@
+.img-fluid{
+  /* background-color: #f79837; */
+  width: 100%;
+  height: 350px;
+}
+
+.container-fluid top{
+  background-color: red;
+}
+
+#bg_image{
+  position: relative;
+}
+.button {
+  background-color: orange;
+  border: none;
+  text-shadow: 2px 2px black;
+  font-family: monospace;
+  color: white;
+  width: 250px;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+}
+
+#obj{
+  position: absolute;
+  width: 180px;
+  top: 50px;
+  left: 38%;
+  height: 200px;
+}
+.icon_image{
+  float: left;
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+#partitioned {
+  padding-left: 15px;
+  letter-spacing: 42px;
+  border: 0px solid white;
+  background-image: linear-gradient(to left, black 70%, rgba(255, 255, 255, 0) 0%);
+  background-position: bottom;
+  background-size: 50px 1px;
+  background-repeat: repeat-x;
+  background-position-x: 35px;
+  width: 300px;
+
+}
+
+#enter_mob{
+  border: 1px solid #f79837;
+  width: 300px;
+  height: 35px;
+  border-radius: 7px;
+  font-weight: 600;
+
+}
+p{
+  margin-top: -2px;
+  margin-bottom: 2px;
+}
+
+.loginmethod a{
+  margin-top: 20px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: serif;
+  font-weight: 300;
+  color: orange;
+}
+#Change_mobile{
+  text-decoration: none;
+  color: orange;
+}
+.loginmethod{
+  padding-left: 15px;
+  height: 40px;
+  width: 350px;
+  border: 1px solid #f79837;
+  border-radius: 15px;
+}

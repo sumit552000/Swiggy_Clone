@@ -1,0 +1,43 @@
+.img-fluid{
+  /* background-color: #f79837; */
+  width: 100%;
+  height: 350px;
+}
+
+.container-fluid top{
+  background-color: red;
+}
+
+#bg_image{
+  position: relative;
+}
+
+#obj{
+  position: absolute;
+  width: 180px;
+  top: 50px;
+  left: 38%;
+  height: 200px;
+}
+.icon_image{
+  float: left;
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.loginmethod a{
+  text-decoration: none;
+  font-size: 20px;
+  font-family: serif;
+  font-weight: 300;
+  color: purple;
+}
+
+.loginmethod{
+  padding: 3px;
+  height: 40px;
+  width: 350px;
+  border: 1px solid #f79837;
+  border-radius: 15px;
+}

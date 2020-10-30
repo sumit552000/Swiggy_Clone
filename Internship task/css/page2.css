@@ -1,0 +1,28 @@
+        div.a{
+            font-size: 300%;
+        }
+        div.b{
+            
+            font-size: 150%;
+        }
+        .bottom {
+            font-size: 12px;
+            
+        }
+        #img1 {
+                  
+                   height: 500px;
+                
+              }
+        
+        .bottom-left {
+                     position: absolute;
+                     bottom: 80px;
+                     left: 100px;
+                     
+                }
+        .top {
+                    position: relative;
+                    text-align: center;
+                    color: black;
+         }  
